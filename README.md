@@ -1,7 +1,7 @@
 ## Clone repository
 
 ```git
-git clone 
+git clone https://github.com/dimacros/lazy-loading-users.git
 ```
 
 ## Installation
