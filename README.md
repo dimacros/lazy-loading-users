@@ -1,3 +1,7 @@
+## Demo
+
+![Application Demo](documentation/demo.gif)
+
 ## Clone repository
 
 ```git
